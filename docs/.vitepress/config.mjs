@@ -9,16 +9,16 @@ export default defineConfig({
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-nav
     nav: [ 
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'blog', link: '/blog' }
     ],
 
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-sidebar
     sidebar: [
       {
-        text: 'Examples',
+        text: 'blog',
         items: [
-          { text: 'Markdown 使用範例', link: '/markdown-examples' },
-          { text: 'Runtime API 使用範例', link: '/api-examples' },
+          { text: 'blog', link: '/blog' },
+          { text: 'post1', link: '/blog/post1.html' },
         ]
       }
     ],
