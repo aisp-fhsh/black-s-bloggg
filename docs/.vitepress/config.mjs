@@ -9,7 +9,7 @@ export default defineConfig({
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-nav
     nav: [ 
       { text: 'Home', link: '/' },
-      { text: 'blog', link: '/blog' }
+      { text: 'blog', link: '/blog/' }
     ],
 
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-sidebar
@@ -17,8 +17,9 @@ export default defineConfig({
       {
         text: 'blog',
         items: [
-          { text: 'blog', link: '/blog' },
-          { text: 'post1', link: '/blog/post1.html' },
+          { text: 'blog', link: '/black-s-bloggg/' },
+          { text: 'TQC+', link: '/blog/post1.html' },
+          { text: 'ctfcdx', link: '/blog/post2.html' },
         ]
       }
     ],
