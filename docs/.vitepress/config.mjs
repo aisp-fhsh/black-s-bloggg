@@ -9,7 +9,7 @@ export default defineConfig({
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-nav
     nav: [ 
       { text: 'Home', link: '/' },
-      { text: 'blog', link: '/blog/' }
+      { text: 'blog', link: '/blog/post1.html' }
     ],
 
     // 👇👇👇 查看 https://vitepress.dev/reference/default-theme-sidebar
