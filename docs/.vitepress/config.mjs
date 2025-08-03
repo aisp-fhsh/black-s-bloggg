@@ -17,9 +17,8 @@ export default defineConfig({
       {
         text: 'blog',
         items: [
-          { text: 'blog', link: '/black-s-bloggg/' },
-          { text: 'TQC+', link: '/blog/post1.html' },
-          { text: 'ctfcdx', link: '/blog/post2.html' },
+          { text: 'TQC+', link: '/blog/post1' },
+          { text: 'ctfcdx', link: '/blog/post2' },
         ]
       }
     ],
