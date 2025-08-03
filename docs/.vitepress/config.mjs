@@ -19,6 +19,7 @@ export default defineConfig({
         items: [
           { text: 'TQC+', link: '/blog/post1' },
           { text: 'ctfcdx', link: '/blog/post2' },
+          { text: 'something about Network', link: '/blog/post3' },
         ]
       }
     ],
