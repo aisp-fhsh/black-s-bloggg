@@ -266,8 +266,6 @@ Flag :  `ctfcdx{th3_tr34sur3_1s_h3r3}`
 
 重複用剛剛的payload 
 
-![image.png](../imgs/Q20.png)
-
 Flag : `ctfcdx{th3_tr34sur3_1s_h3r3}`
 ## 題目 21
 ![image.png](../imgs/Q21.png)
