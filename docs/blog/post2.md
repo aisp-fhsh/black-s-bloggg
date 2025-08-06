@@ -82,8 +82,8 @@ google hacking 一下
 “空間改造計畫”+”台北大學期中報告”+”96年”
 
 Flag : `和平東路綠軸水循環校園空間改造計畫`
-## 題目 10
-![image.png](../imgs/Q10.png)
+## 題目 
+![image.png](../imgs/Q11.png)
 
 先用nmap掃有幾個port是開放的 
 
